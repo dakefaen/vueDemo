@@ -1,0 +1,25 @@
+{
+  "name": "vuedemo",
+  "version": "0.0.1",
+  "description": "demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakefaen/vueDemo.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "gyy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dakefaen/vueDemo/issues"
+  },
+  "homepage": "https://github.com/dakefaen/vueDemo#readme",
+  "dependencies": {
+    "vue": "^2.5.13"
+  }
+}
